@@ -1,3 +1,8 @@
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/leonard-habimana-b83a5b1a6/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/leonard_habimana"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
 ## Passionate Full-Stack developer
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardHub&show_icons=true&theme=blue-green)
