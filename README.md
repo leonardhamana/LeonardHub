@@ -7,8 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardHub&show_icons=true&theme=blue-green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardHub&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardHub&hide_progress=true)](https://github.com/LeonardHub/github-readme-stats)
+
 
 ## Languages and tools
 
